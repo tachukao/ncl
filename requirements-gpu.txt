@@ -1,0 +1,7 @@
+--find-links https://storage.googleapis.com/jax-releases/jax_releases.html
+jax==0.2.11
+jaxlib==0.1.71+cuda111
+numpy==1.19.2
+matplotlib>=2.2
+pandas>=0.23
+-e .

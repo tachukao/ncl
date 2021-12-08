@@ -1,0 +1,6 @@
+jax==0.2.11
+jaxlib==0.1.71
+numpy==1.19.2
+matplotlib>=2.2
+pandas>=0.23
+-e .
